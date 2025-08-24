@@ -1,0 +1,80 @@
+    body{
+                margin: 0;
+                background-color: white;
+            }
+        .hidang {
+                background-color: rgb(255, 255, 255);
+                border: 15px;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 5px 30px;
+
+            }
+            div h3 a{
+                color: #f5cb23;
+            }
+            .hider-link a{
+                color:rgb(3, 3, 3);
+                padding: 0 25px;
+                border-radius: 10px;
+                text-decoration: none;
+            } 
+            .hider-link a:hover{
+                color: rgb(50, 114, 136);
+            }
+            .haed{
+            text-align: center;
+            
+         }
+         .styl1{
+            background-color: rgb(222, 222, 222);
+            border-radius: 50px;
+            text-align: center;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 60px;
+            margin:  0 100px;
+         }
+         .test1{
+            margin: 50px;
+         }
+         .styl2 h2 a {
+            color: #facd27;
+
+         }
+         .styl2{
+             padding: 5px 30px;
+            }
+
+         div .card img{
+            width: 300px;
+         }
+         div .card{
+             padding: 5px 30px;
+         }
+             div.card-name h4{
+                margin: 0px;
+             }
+             .card .sit{
+                border-radius: 10px;
+             }
+             .all-card{
+                display: flex;
+                 justify-content: space-between;
+                 
+             }
+             div.card.card-info button{
+                position:absolute;
+                left: 90px;
+                border-radius: 30px;
+             }
+               .card .price {
+    position: absolute;
+    background: orange;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 5px 0 10px 0;
+    font-size: 14px;
+}
